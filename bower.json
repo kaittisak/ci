@@ -1,0 +1,17 @@
+{
+  "name": "ci",
+  "authors": [
+    "kaittisak <mos_kaittisak@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
